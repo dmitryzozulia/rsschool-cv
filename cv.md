@@ -7,11 +7,11 @@ discord: [dmitryzozulia#6547](discord:dmitryzozulia#6547)
 
 contact number: +48536003517
 ## Summary
-
+My goal is to become a senior Frontend Developer
 ## Skills
 HTML/CSS/Javascript
 ## Code examples
-
+codewars: https://www.codewars.com/users/dmitryzozulia
 ## Experience
 
 ## Education
