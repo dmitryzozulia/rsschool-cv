@@ -1,2 +1,2 @@
 # rsschool-cv
-Resume for rsschool
+https://dmitryzozulia.github.io/rsschool-cv/cv
